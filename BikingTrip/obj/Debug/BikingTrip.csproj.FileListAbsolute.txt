@@ -1,0 +1,23 @@
+C:\Users\ivan\OneDrive\Documents\Visual Studio stuff\BikingTrip\obj\Debug\BikingTrip.csproj.AssemblyReference.cache
+C:\Users\ivan\OneDrive\Documents\Visual Studio stuff\BikingTrip\obj\Debug\BikingTrip.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivan\OneDrive\Documents\Visual Studio stuff\BikingTrip\obj\Debug\BikingTrip.Properties.Resources.resources
+C:\Users\ivan\OneDrive\Documents\Visual Studio stuff\BikingTrip\obj\Debug\BikingTrip.csproj.GenerateResource.cache
+C:\Users\ivan\OneDrive\Documents\Visual Studio stuff\BikingTrip\obj\Debug\BikingTrip.csproj.CoreCompileInputs.cache
+C:\Users\ivan\OneDrive\Documents\Visual Studio stuff\BikingTrip\bin\Debug\BikingTrip.exe.config
+C:\Users\ivan\OneDrive\Documents\Visual Studio stuff\BikingTrip\bin\Debug\BikingTrip.exe
+C:\Users\ivan\OneDrive\Documents\Visual Studio stuff\BikingTrip\bin\Debug\BikingTrip.pdb
+C:\Users\ivan\OneDrive\Documents\Visual Studio stuff\BikingTrip\obj\Debug\BikingTrip.Form1.resources
+C:\Users\ivan\OneDrive\Documents\Visual Studio stuff\BikingTrip\obj\Debug\BikingTrip.exe
+C:\Users\ivan\OneDrive\Documents\Visual Studio stuff\BikingTrip\obj\Debug\BikingTrip.pdb
+C:\Users\ivan\OneDrive\Documents\Visual Studio stuff\BikingTrip\obj\Debug\BikingTrip.Form2.resources
+C:\Users\Bogda\Desktop\BikingTrip\bin\Debug\BikingTrip.exe.config
+C:\Users\Bogda\Desktop\BikingTrip\bin\Debug\BikingTrip.exe
+C:\Users\Bogda\Desktop\BikingTrip\bin\Debug\BikingTrip.pdb
+C:\Users\Bogda\Desktop\BikingTrip\obj\Debug\BikingTrip.csproj.AssemblyReference.cache
+C:\Users\Bogda\Desktop\BikingTrip\obj\Debug\BikingTrip.Form1.resources
+C:\Users\Bogda\Desktop\BikingTrip\obj\Debug\BikingTrip.Form2.resources
+C:\Users\Bogda\Desktop\BikingTrip\obj\Debug\BikingTrip.Properties.Resources.resources
+C:\Users\Bogda\Desktop\BikingTrip\obj\Debug\BikingTrip.csproj.GenerateResource.cache
+C:\Users\Bogda\Desktop\BikingTrip\obj\Debug\BikingTrip.csproj.CoreCompileInputs.cache
+C:\Users\Bogda\Desktop\BikingTrip\obj\Debug\BikingTrip.exe
+C:\Users\Bogda\Desktop\BikingTrip\obj\Debug\BikingTrip.pdb
